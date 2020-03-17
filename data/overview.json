@@ -1,5 +1,4 @@
  {
-    "V1 (real)": "../data/mr-100k.csv",
     "V1 (simulated)": "../data/mr-simulated-v1.csv",
     "PPR (simulated)": "../data/mr-simulated-ppr.csv"
 }
